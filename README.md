@@ -32,7 +32,7 @@ While working with AR there was often task of modefy surounding envirment In mos
 3. [Structure seonsor](https://www.youtube.com/watch?v=Q0fhYRXgt1w&feature=youtu.be)
 ![](https://www.youtube.com/watch?v=Q0fhYRXgt1w&feature=youtu.be)
 
-[![Structure sensor](https://img.youtube.com/vi/Q0fhYRXgt1w/0.jpg)](https://www.youtube.com/watch?v=Q0fhYRXgt1w)
+[![Structure sensor - video link ](https://img.youtube.com/vi/Q0fhYRXgt1w/0.jpg)](https://www.youtube.com/watch?v=Q0fhYRXgt1w)
 
 
 	a. 6DAI approach 
@@ -60,11 +60,11 @@ While working with AR there was often task of modefy surounding envirment In mos
 
 ###  Input
 
-![image](https://raw.githubusercontent.com/comangames/ar-vr-ui/master/resources/VideoProcessing_input.gif)
+![image](https://raw.githubusercontent.com/comangames/ar-vr-ui/master/Resources/VideoProcessing_input.gif)
 
 ### Output 
 
-![image](https://raw.githubusercontent.com/comangames/ar-vr-ui/master/resources/VideoProcessing_output.gif)
+![image](https://raw.githubusercontent.com/comangames/ar-vr-ui/master/Resources/VideoProcessing_output.gif)
 
 ## Games
 
@@ -74,6 +74,9 @@ While working with AR there was often task of modefy surounding envirment In mos
 
 ### Pain of Teeth
 ![Image](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/ShortGif.gif)
-[Steam Link](https://steamcommunity.com/sharedfiles/filedetails/?id=880079211)
+
+#[Steam Link](https://steamcommunity.com/sharedfiles/filedetails/?id=880079211)
+
+
 ![Image](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/PainOfTeethSteam.png)
 
