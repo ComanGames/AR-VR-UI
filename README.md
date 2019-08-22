@@ -32,11 +32,14 @@ While working with AR there was often task of modefy surounding envirment In mos
 3. [Structure seonsor](https://www.youtube.com/watch?v=Q0fhYRXgt1w&feature=youtu.be)
 ![](https://www.youtube.com/watch?v=Q0fhYRXgt1w&feature=youtu.be)
 
-[![Structure sensor - video link ](https://img.youtube.com/vi/Q0fhYRXgt1w/0.jpg)](https://www.youtube.com/watch?v=Q0fhYRXgt1w)
+
+###  Work with struction sensor
+#[VideoLink](https://www.youtube.com/watch?v=Q0fhYRXgt1w)
+![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/StructureSensor.jfif)
 
 
 	a. 6DAI approach 
-	b. Coplex Ipad Aproach
+	b. Structure Sensor
 	c. AR Core/AR Kit/ AR Fundamental approcach
  
 
@@ -69,8 +72,8 @@ While working with AR there was often task of modefy surounding envirment In mos
 ## Games
 
 ### Carrot Run Very Early game
+ #[Video Review](https://www.youtube.com/watch?v=4N71f0jmSN8)
 ![Image](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/JPEG/CarrotRun.jpg)
- [Video Review](https://www.youtube.com/watch?v=4N71f0jmSN8)
 
 ### Pain of Teeth
 ![Image](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/ShortGif.gif)
