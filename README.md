@@ -35,7 +35,7 @@ While working with AR there was often task of modefy surounding envirment In mos
 
 ###  Work with struction sensor
 #[VideoLink](https://www.youtube.com/watch?v=Q0fhYRXgt1w)
-![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/StructureSensor.jfif)
+![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/JPEG/StructureSensor.jpg)
 
 
 	a. 6DAI approach 
