@@ -26,7 +26,7 @@ While working with AR there was often task of modefy surounding envirment In mos
 
 2. [Mesh Tool](https://github.com/ComanGames/AirLoomMashTools)
 
-![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/Converting.png)
+![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/JPEG/Converting.jpg)
 
 
 3. [Structure seonsor](https://www.youtube.com/watch?v=Q0fhYRXgt1w&feature=youtu.be)
@@ -69,7 +69,7 @@ While working with AR there was often task of modefy surounding envirment In mos
 ## Games
 
 ### Carrot Run Very Early game
-![Image](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/CarrotRun.jpg)
+![Image](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/JPEG/CarrotRun.jpg)
  [Video Review](https://www.youtube.com/watch?v=4N71f0jmSN8)
 
 ### Pain of Teeth
@@ -78,5 +78,5 @@ While working with AR there was often task of modefy surounding envirment In mos
 #[Steam Link](https://steamcommunity.com/sharedfiles/filedetails/?id=880079211)
 
 
-![Image](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/PainOfTeethSteam.png)
+![Image](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/JPEG/PainOfTeethSteam.jpg)
 
