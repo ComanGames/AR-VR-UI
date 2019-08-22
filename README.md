@@ -1,12 +1,15 @@
 # AR and UI Examples
 ## Work with AR
 1. #AR Core
+
 ![](https://blog.pageonewebsolutions.com/hs-fs/hubfs/apple-AR.gif?width=480&name=apple-AR.gif)
 
 Good example of work
+
 https://blog.pageonewebsolutions.com/hs-fs/hubfs/apple-AR.gif?width=480&name=apple-AR.gif
 
 First job made wiuh vuForia
+
 ![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/FirstARApp2015.gif)
 
 AR Scanning floor project 
