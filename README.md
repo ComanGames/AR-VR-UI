@@ -1,7 +1,6 @@
 # AR and UI Examples
 ## Work with AR
 1. #AR Core
-
 ![](https://blog.pageonewebsolutions.com/hs-fs/hubfs/apple-AR.gif?width=480&name=apple-AR.gif)
 
 Good example of work
