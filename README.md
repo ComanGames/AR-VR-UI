@@ -1,16 +1,21 @@
 # AR and UI Examples
 ## Work with AR
-1. #AR Core
-![](https://blog.pageonewebsolutions.com/hs-fs/hubfs/apple-AR.gif?width=480&name=apple-AR.gif)
+### AR Core
 
-Good example of work
-https://blog.pageonewebsolutions.com/hs-fs/hubfs/apple-AR.gif?width=480&name=apple-AR.gif
+![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/apple-AR.gif)
 
-First job made wiuh vuForia
-![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/FirstARApp2015.gif)
+### First job made wiuh vuForia
 
-AR Scanning floor project 
-![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Animation.gif)
+![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/FirstARApp2015.gif)
+
+### AR puzzle game
+
+![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/ArPuzzle.gif)
+
+### AR Scanning floor project 
+
+![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/Animation.gif)
+
 ## Mesh Gneration
 
 While working with AR there was often task of modefy surounding envirment In most cases it was made by : 
@@ -21,7 +26,7 @@ While working with AR there was often task of modefy surounding envirment In mos
 
 2. [Mesh Tool](https://github.com/ComanGames/AirLoomMashTools)
 
-![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Converting.png)
+![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/Converting.png)
 
 
 3. [Structure seonsor](https://www.youtube.com/watch?v=Q0fhYRXgt1w&feature=youtu.be)
@@ -34,12 +39,41 @@ While working with AR there was often task of modefy surounding envirment In mos
 	b. Coplex Ipad Aproach
 	c. AR Core/AR Kit/ AR Fundamental approcach
  
+
+## Machine Learning
+
+### Unity Tenser Flow Soccer 
+![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/MachineLearningExample.gif)
+
 ## Custom products VR Game
 
-1.Gear VR alien game 
+1.Gear VR alien games 
 
-![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/AlienGun.gif)
+### Alien Shooter
+![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/AlienGun.gif)
 
-2 Smart Machines
-![](https://i.pinimg.com/originals/s8f/fa/8c/8ffa8c01e675a4b03857cecbb882acab.gif)
-![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/ShortGif.gif)
+
+### Smash The Snack
+![](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/SmashTheSnack.gif)
+
+## Video AR Processing 
+
+###  Input
+
+![image](https://raw.githubusercontent.com/comangames/ar-vr-ui/master/resources/VideoProcessing_input.gif)
+
+### Output 
+
+![image](https://raw.githubusercontent.com/comangames/ar-vr-ui/master/resources/VideoProcessing_output.gif)
+
+## Games
+
+### Carrot Run Very Early game
+![Image](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/CarrotRun.jpg)
+ [Video Review](https://www.youtube.com/watch?v=4N71f0jmSN8)
+
+### Pain of Teeth
+![Image](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/ShortGif.gif)
+[Steam Link](https://steamcommunity.com/sharedfiles/filedetails/?id=880079211)
+![Image](https://raw.githubusercontent.com/ComanGames/AR-VR-UI/master/Resources/PainOfTeethSteam.png)
+
